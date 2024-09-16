@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\AuthorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAppDb/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAppDb/True/SqlTable/dbo.AuthorDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAppDb/True/SqlTable/dbo.Authors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\views\\book\\getbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\views\\book\\getbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\views\\user\\getallbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\views\\user\\getallbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|D:\\MVC\\AuthorApp\\authorapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|D:\\MVC\\AuthorApp\\authorapp\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|D:\\MVC\\AuthorApp\\authorapp\\mappings\\authormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\mappings\\authormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|D:\\MVC\\AuthorApp\\authorapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|D:\\MVC\\AuthorApp\\authorapp\\mappings\\authordetailmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\mappings\\authordetailmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|D:\\MVC\\AuthorApp\\authorapp\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|D:\\MVC\\AuthorApp\\authorapp\\models\\authordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\models\\authordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\mappings\\bookmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\mappings\\bookmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|d:\\mvc\\authorapp\\authorapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57312B3-78E6-448F-8FBE-1F0E115DC8DA}|AuthorApp\\AuthorApp.csproj|solutionrelative:authorapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.AuthorDetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAppDb/True/SqlTable/dbo.AuthorDetails.sql",
+              "ToolTip": "dbo.AuthorDetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-16T18:12:24.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAppDb/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-16T18:12:19.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Authors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAppDb/True/SqlTable/dbo.Authors.sql",
+              "ToolTip": "dbo.Authors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-16T18:12:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AuthorApp\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "AuthorApp\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T18:07:10.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthorApp\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "AuthorApp\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T18:05:50.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "AuthorApp\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "AuthorApp\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T18:04:08.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetBook.cshtml",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Book\\GetBook.cshtml",
+              "RelativeDocumentMoniker": "AuthorApp\\Views\\Book\\GetBook.cshtml",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Book\\GetBook.cshtml",
+              "RelativeToolTip": "AuthorApp\\Views\\Book\\GetBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T18:03:09.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthorApp\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "AuthorApp\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:50:42.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllBooks.cshtml",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\User\\GetAllBooks.cshtml",
+              "RelativeDocumentMoniker": "AuthorApp\\Views\\User\\GetAllBooks.cshtml",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\User\\GetAllBooks.cshtml",
+              "RelativeToolTip": "AuthorApp\\Views\\User\\GetAllBooks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:49:11.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthorApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthorApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:35:12.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthorApp\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "AuthorApp\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:34:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Web.config",
+              "RelativeDocumentMoniker": "AuthorApp\\Web.config",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Web.config",
+              "RelativeToolTip": "AuthorApp\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-16T17:07:27.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthorApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:01:18.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "AuthorApp\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwFQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:00:56.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "AuthorApp\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:59:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookMap.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Mappings\\BookMap.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Mappings\\BookMap.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Mappings\\BookMap.cs",
+              "RelativeToolTip": "AuthorApp\\Mappings\\BookMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:23:37.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Models\\Book.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Models\\Book.cs",
+              "RelativeToolTip": "AuthorApp\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:14:19.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthorApp\\Views\\Author\\Index.cshtml",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "AuthorApp\\Views\\Author\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:17:48.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "AuthorApp\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwGwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:11:51.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthorDetailMap.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Mappings\\AuthorDetailMap.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Mappings\\AuthorDetailMap.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Mappings\\AuthorDetailMap.cs",
+              "RelativeToolTip": "AuthorApp\\Mappings\\AuthorDetailMap.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:34:51.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthorDetail.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Models\\AuthorDetail.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Models\\AuthorDetail.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Models\\AuthorDetail.cs",
+              "RelativeToolTip": "AuthorApp\\Models\\AuthorDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:20:44.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Models\\Author.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Models\\Author.cs",
+              "RelativeToolTip": "AuthorApp\\Models\\Author.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:20:28.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthorMap.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Mappings\\AuthorMap.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Mappings\\AuthorMap.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Mappings\\AuthorMap.cs",
+              "RelativeToolTip": "AuthorApp\\Mappings\\AuthorMap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:34:23.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\Data\\NHibernateHelper.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "AuthorApp\\Data\\NHibernateHelper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:12:18.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\MVC\\AuthorApp\\AuthorApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "AuthorApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\MVC\\AuthorApp\\AuthorApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "AuthorApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:24:55.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
